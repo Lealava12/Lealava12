@@ -291,6 +291,6 @@ Bhubaneswar, Odisha, India
 
 <br/>
 
-### Building Digital Solutions for Modern Businesses
+### Think In New Dimension
 
 </div>
