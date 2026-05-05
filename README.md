@@ -1,10 +1,10 @@
 <div align="center">
 
-# Lealava Technologies
+# Lealava Technologies (OPC) Pvt. Ltd.
 
-### Professional IT Solutions Company
+### Professional IT Solutions & Digital Growth Company
 
-Building reliable digital products, business websites, custom software, web applications, and automation solutions for modern businesses.
+We help businesses build a strong digital presence through modern websites, custom software, business automation, digital marketing, branding, and reliable technology solutions.
 
 <br/>
 
@@ -16,157 +16,177 @@ Building reliable digital products, business websites, custom software, web appl
 
 ---
 
+<div align="center">
+
 ## About Us
 
-**Lealava Technologies** is a professional IT solutions company focused on delivering secure, scalable, and business-ready digital solutions.
+</div>
 
-Our core priority is to help businesses build a strong digital foundation through **web development, software development, web applications, admin panels, CRM systems, HRM systems, e-commerce platforms, and business automation solutions**.
+**Lealava Technologies (OPC) Pvt. Ltd.** is a professional IT solutions and digital growth company based in Bhubaneswar, Odisha, India.
 
-Along with IT solutions, we also support businesses with digital growth services such as **digital marketing, SEO, social media marketing, branding, graphic design, and bulk marketing campaigns**.
+We work with businesses, startups, service providers, healthcare organizations, educational institutions, local brands, and growing companies to build reliable digital solutions that support long-term business growth.
 
-We work with startups, local businesses, service providers, healthcare brands, educational organizations, corporate teams, and growing companies that need reliable technology support.
+Our work includes professional website development, custom software development, web applications, business automation systems, digital marketing, branding, creative design, and online business support.
+
+We focus on clean execution, practical business logic, professional design, secure development practices, and long-term support.
+
+Our goal is to deliver digital solutions that are simple to use, scalable for the future, and effective for real business needs.
 
 ---
 
 <div align="center">
 
-## Our Service Priorities
+## What We Do
 
 </div>
 
-| Priority | Focus Area | Description |
-|---|---|---|
-| Primary | IT Solutions | Websites, software, web applications, admin panels, CRM, HRM, e-commerce, and automation systems |
-| Secondary | Digital Growth Services | Digital marketing, SEO, SMM, branding, graphic design, and bulk marketing support |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Website Development</h3>
+      <p>
+        We design and develop professional, responsive, and business-focused websites that help companies present their services clearly, build trust, and grow online.
+      </p>
+      <ul>
+        <li>Business Websites</li>
+        <li>Company Websites</li>
+        <li>Service-Based Websites</li>
+        <li>Landing Pages</li>
+        <li>Portfolio Websites</li>
+        <li>E-commerce Websites</li>
+        <li>Website Redesign</li>
+        <li>Website Maintenance</li>
+        <li>Domain and Hosting Support</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Software Development</h3>
+      <p>
+        We build custom software solutions that help businesses manage operations, reduce manual work, improve productivity, and handle business workflows smoothly.
+      </p>
+      <ul>
+        <li>Custom Software Development</li>
+        <li>Web Application Development</li>
+        <li>Admin Panel Development</li>
+        <li>CRM Solutions</li>
+        <li>HRM Solutions</li>
+        <li>Billing Software</li>
+        <li>Inventory Management Systems</li>
+        <li>Business Management Systems</li>
+        <li>Internal Business Tools</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Business Automation</h3>
+      <p>
+        We create automation-based systems that help businesses save time, reduce repetitive work, and manage daily processes more efficiently.
+      </p>
+      <ul>
+        <li>Workflow Automation</li>
+        <li>Lead Management Systems</li>
+        <li>Employee Management Systems</li>
+        <li>Customer Management Systems</li>
+        <li>Report Generation Systems</li>
+        <li>Approval-Based Workflows</li>
+        <li>Task Management Systems</li>
+        <li>Business Process Digitization</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Digital Marketing</h3>
+      <p>
+        We help businesses improve online visibility, reach the right audience, generate quality leads, and build a strong brand presence.
+      </p>
+      <ul>
+        <li>Search Engine Optimization</li>
+        <li>Social Media Marketing</li>
+        <li>Google Business Profile Optimization</li>
+        <li>Online Advertisement</li>
+        <li>Lead Generation Campaigns</li>
+        <li>Brand Awareness Campaigns</li>
+        <li>Content Planning</li>
+        <li>Campaign Strategy</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Branding & Creative Design</h3>
+      <p>
+        We create professional visual designs that help businesses build a consistent, attractive, and trustworthy brand identity.
+      </p>
+      <ul>
+        <li>Logo Design</li>
+        <li>Brand Identity Design</li>
+        <li>Social Media Creatives</li>
+        <li>Promotional Graphics</li>
+        <li>Marketing Materials</li>
+        <li>Business Branding Support</li>
+        <li>Creative Campaign Designs</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Bulk Marketing Solutions</h3>
+      <p>
+        We provide communication-based marketing solutions that help businesses connect with customers through targeted promotional campaigns.
+      </p>
+      <ul>
+        <li>Bulk WhatsApp Marketing</li>
+        <li>Bulk SMS Marketing</li>
+        <li>Promotional Campaign Messages</li>
+        <li>Customer Communication Support</li>
+        <li>Business Campaign Planning</li>
+        <li>Marketing Message Strategy</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Primary Services
+<div align="center">
 
-### IT Solutions
+## Our Work Approach
 
-We build custom IT solutions that help businesses manage operations, improve productivity, and create a strong digital presence.
+</div>
 
-Our IT solution services include:
-
-- Website Development
-- Web Application Development
-- Custom Software Development
-- Admin Panel Development
-- CRM Software Development
-- HRM Software Development
-- Billing Software Development
-- E-commerce Development
-- Business Management Systems
-- Workflow Automation
-- Website Maintenance
-- Domain and Hosting Support
-
----
-
-### Web Development
-
-We design and develop professional websites that are fast, responsive, user-friendly, and business-focused.
-
-Our web development services include:
-
-- Business Websites
-- Company Websites
-- Service-Based Websites
-- Landing Pages
-- Portfolio Websites
-- E-commerce Websites
-- Website Redesign
-- Mobile Responsive Design
-- SEO-Friendly Website Structure
-- Website Maintenance and Support
-
-Our goal is to create websites that look professional, load smoothly, explain services clearly, and help convert visitors into customers.
-
----
-
-### Software Development
-
-We develop custom software based on real business requirements and workflow needs.
-
-Our software development services include:
-
-- CRM Systems
-- HRM Systems
-- Billing Software
-- Inventory Management Systems
-- Admin Dashboards
-- Reporting Systems
-- Employee Management Systems
-- Customer Management Systems
-- Internal Business Tools
-- Custom Business Automation
-
-Every software solution is planned with usability, security, scalability, and long-term maintenance in mind.
-
----
-
-### Business Automation
-
-We help businesses reduce manual work and improve workflow through automation-based digital systems.
-
-Our automation services include:
-
-- Lead Management Automation
-- Employee Workflow Automation
-- Customer Data Management
-- Report Generation Systems
-- Approval-Based Workflow Systems
-- Task Management Systems
-- Business Process Digitization
-
----
-
-## Secondary Services
-
-### Digital Marketing
-
-We provide digital marketing services to help businesses improve visibility, reach the right audience, and generate quality leads.
-
-Our digital marketing services include:
-
-- Search Engine Optimization
-- Social Media Marketing
-- Google Business Profile Optimization
-- Online Advertisement
-- Lead Generation Campaigns
-- Brand Awareness Campaigns
-- Content Planning
-- Campaign Strategy
-
----
-
-### Branding & Creative Design
-
-We help businesses create a professional and consistent brand identity.
-
-Our branding services include:
-
-- Logo Design
-- Brand Identity Design
-- Social Media Creatives
-- Promotional Graphics
-- Marketing Materials
-- Business Branding Support
-
----
-
-### Bulk Marketing Solutions
-
-We provide communication-based marketing solutions for customer engagement and promotional campaigns.
-
-Our bulk marketing services include:
-
-- Bulk WhatsApp Marketing
-- Bulk SMS Marketing
-- Promotional Campaign Messages
-- Customer Communication Support
-- Business Campaign Planning
+<table>
+  <tr>
+    <td align="center" width="20%" valign="top">
+      <h3>01</h3>
+      <strong>Understand</strong>
+      <p>We understand the business, goals, audience, services, workflow, and project requirements.</p>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <h3>02</h3>
+      <strong>Plan</strong>
+      <p>We prepare a clear strategy, structure, feature flow, content direction, and execution roadmap.</p>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <h3>03</h3>
+      <strong>Design</strong>
+      <p>We create clean, professional, responsive, and user-friendly designs for better experience.</p>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <h3>04</h3>
+      <strong>Develop</strong>
+      <p>We build secure, scalable, and practical solutions based on real business requirements.</p>
+    </td>
+    <td align="center" width="20%" valign="top">
+      <h3>05</h3>
+      <strong>Support</strong>
+      <p>We provide launch support, maintenance, updates, and long-term improvement support.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -176,74 +196,71 @@ Our bulk marketing services include:
 
 </div>
 
-| Strength | What It Means |
-|---|---|
-| IT-First Approach | We focus mainly on web, software, and automation-based solutions |
-| Business-Focused Planning | Every project is planned according to real business needs |
-| Clean Execution | We maintain professional structure, design flow, and project quality |
-| Scalable Solutions | Our solutions are planned for future updates and business growth |
-| Secure Development | We follow safe handling of data, credentials, and production files |
-| Long-Term Support | We support businesses even after project delivery |
-| Digital Growth Support | Along with IT, we also help with marketing and branding needs |
-
----
-
-## Our Work Process
-
-### 1. Requirement Understanding
-
-We understand the business model, goals, target audience, workflow, and technical requirements.
-
-### 2. Planning & Strategy
-
-We prepare a clear project plan including structure, features, design flow, content, development scope, and timeline.
-
-### 3. Design & Development
-
-We create professional designs, develop required modules, build responsive layouts, and implement business logic.
-
-### 4. Testing & Quality Check
-
-We test functionality, responsiveness, user experience, data handling, security, and performance before delivery.
-
-### 5. Launch & Support
-
-We support deployment, website launch, software setup, maintenance, and future improvements.
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>Business-Focused</h3>
+      <p>Every solution is planned according to real business goals, customer needs, and workflow requirements.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>Professional Execution</h3>
+      <p>We focus on clean design, proper structure, smooth functionality, and quality delivery.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>Scalable Solutions</h3>
+      <p>Our solutions are planned for future updates, business growth, and long-term maintenance.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>Secure Development</h3>
+      <p>We follow safe development practices for handling project files, data, credentials, and production systems.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>Transparent Process</h3>
+      <p>We keep communication clear throughout planning, development, testing, and delivery.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>Long-Term Support</h3>
+      <p>We support businesses even after delivery with improvements, updates, maintenance, and future enhancements.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-## Repository Purpose
+## GitHub Profile Purpose
 
 </div>
 
-This GitHub profile is used to manage company development work, demo projects, reusable components, internal tools, and professional IT solutions.
+This GitHub profile is used to manage company development work, demo projects, reusable components, internal tools, and non-confidential project showcases.
 
-### Public Repositories May Include
+Our public repositories may include:
 
 - Website demo projects
-- Web application structures
 - Landing page templates
+- Web application structures
 - Admin panel demos
 - Reusable UI sections
 - Sample business modules
 - Non-confidential showcase work
+- Project structure examples
 
-### Private Repositories Are Used For
-
-- Client projects
-- Production source code
-- Business-sensitive systems
-- Internal company tools
-- Secure project files
-- Confidential development work
+Client projects, production source code, private business logic, credentials, database backups, API keys, payment keys, and confidential files are managed securely in private repositories.
 
 ---
 
+<div align="center">
+
 ## Security & Privacy
 
-We do not publish client-sensitive data, production credentials, database backups, API keys, payment credentials, private business logic, or confidential project files in public repositories.
+</div>
+
+We respect client privacy and follow secure development practices.
+
+We do not publish client-sensitive data, production credentials, database backups, payment keys, private business logic, API keys, or confidential project files in public repositories.
 
 All client and production projects are managed securely through private repositories.
 
@@ -253,11 +270,22 @@ All client and production projects are managed securely through private reposito
 
 ## Official Websites
 
-**Main Website**  
-https://www.lealavatechnologies.com/
+<br/>
 
-**Service Website**  
-https://www.lealavatechnologies.in/
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Main Website</strong>
+      <br/>
+      <a href="https://www.lealavatechnologies.com/">www.lealavatechnologies.com</a>
+    </td>
+    <td align="center" width="50%">
+      <strong>Service Website</strong>
+      <br/>
+      <a href="https://www.lealavatechnologies.in/">www.lealavatechnologies.in</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -267,21 +295,20 @@ https://www.lealavatechnologies.in/
 
 ## Contact Us
 
-For IT solutions, website development, software development, business automation, or digital growth services, connect with us.
+For website development, software development, business automation, digital marketing, branding, or complete IT solutions, connect with us.
 
-**Lealava Technologies**  
+<br/>
+
+**Lealava Technologies (OPC) Pvt. Ltd.**  
 Bhubaneswar, Odisha, India  
 
 **Email:** technologieslealava@gmail.com  
+
 **Main Website:** https://www.lealavatechnologies.com/  
 **Service Website:** https://www.lealavatechnologies.in/
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-### Building IT Solutions. Automating Businesses. Supporting Digital Growth.
+### Building Digital Solutions for Modern Businesses
 
 </div>
