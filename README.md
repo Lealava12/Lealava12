@@ -10,7 +10,7 @@ We help businesses build a strong digital presence through modern websites, cust
 
 [![Main Website](https://img.shields.io/badge/Main%20Website-lealavatechnologies.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lealavatechnologies.com/)
 [![Service Website](https://img.shields.io/badge/Service%20Website-lealavatechnologies.in-1E8E3E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lealavatechnologies.in/)
-[![Email](https://img.shields.io/badge/Email-technologieslealava@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technologieslealava@gmail.com)
+[![Email](https://img.shields.io/badge/Email-info@lealavatechnologies.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@lealavatechnologies.com)
 
 </div>
 
@@ -252,34 +252,6 @@ We provide launch support, maintenance, updates, and long-term improvement suppo
 
 <div align="center">
 
-## GitHub Profile Purpose
-
-</div>
-
-This GitHub profile is used to manage company development work, demo projects, reusable components, internal tools, and non-confidential project showcases.
-
-### Public repositories may include:
-- Website demo projects  
-- Landing page templates  
-- Web application structures  
-- Admin panel demos  
-- Reusable UI sections  
-- Sample business modules  
-- Non-confidential showcase work  
-- Project structure examples  
-
-### Private repositories are used for:
-- Client projects  
-- Production source code  
-- Private business logic  
-- Credentials and secure configurations  
-- Database backups  
-- API keys and confidential files  
-
----
-
-<div align="center">
-
 ## Security & Privacy
 
 </div>
@@ -313,7 +285,7 @@ For website development, software development, business automation, digital mark
 **Lealava Technologies (OPC) Pvt. Ltd.**  
 Bhubaneswar, Odisha, India  
 
-📧 **Email:** [technologieslealava@gmail.com](mailto:technologieslealava@gmail.com)  
+📧 **Email:** [info@lealavatechnologies.com](mailto:info@lealavatechnologies.com)  
 🌐 **Main Website:** [www.lealavatechnologies.com](https://www.lealavatechnologies.com/)  
 🌐 **Service Website:** [www.lealavatechnologies.in](https://www.lealavatechnologies.in/)
 
